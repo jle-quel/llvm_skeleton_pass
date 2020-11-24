@@ -1,6 +1,6 @@
 # llvm_skeleton_pass
 
-NewManager and LegacyManager LLVM skeleton pass
+NewPassManager and LegacyPassManager LLVM skeleton pass
 
 ## Build and Run
 
